@@ -2,7 +2,7 @@
 
 navigator
 ![Screnshot](https://github.com/fatewritecode/lesson82/blob/main/assets/screen.jpg)
-![Screnshot](https://github.com/fatewritecode/mynavigator/tree/main/assets/scr.jpg)
+![Screnshot](https://github.com/fatewritecode/mynavigator/blob/main/assets/scr.jpg)
 ## Getting Started
 
 
