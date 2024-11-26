@@ -3,7 +3,7 @@
 navigator
 
 ## Getting Started
-
+![Screnshot](https://github.com/fatewritecode/lesson82/blob/main/assets/screen.jpg)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
