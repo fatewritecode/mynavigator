@@ -3,6 +3,7 @@
 navigator
 
 ## Getting Started
+
 ![Screnshot](https://github.com/fatewritecode/mynavigator/tree/main/assets/scr.jpg)
 This project is a starting point for a Flutter application.
 
